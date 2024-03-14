@@ -128,7 +128,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![out 2 1](https://github.com/PRAISEYSOLOMON/lifecyclemethods/assets/119394259/b715ac7e-61c0-4c1c-b83b-e244674be660)
 
+![out 2 2](https://github.com/PRAISEYSOLOMON/lifecyclemethods/assets/119394259/9f792c48-5716-4181-945a-9a41d5ff7bfa)
+
+![out 2 3](https://github.com/PRAISEYSOLOMON/lifecyclemethods/assets/119394259/94d60bcd-81a0-4e10-aad2-b07d481a447c)
+
+![out 2 4](https://github.com/PRAISEYSOLOMON/lifecyclemethods/assets/119394259/fd1f1f96-c618-4b14-8f69-28766c17ee6d)
+
+![out 2 5](https://github.com/PRAISEYSOLOMON/lifecyclemethods/assets/119394259/57420003-01dc-4a41-b8d5-b382fecc6745)
 
 
 ## RESULT
